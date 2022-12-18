@@ -5,5 +5,10 @@ public class Main {
         XX.sun=1;
         XX.planet=2;
 
+        FeatureSUN Xeron = new FeatureSUN();
+        Xeron.size=123456;
+        Xeron.color="21344555";
+        Xeron.Temperature=7892;
+
     }
 }
